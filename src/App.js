@@ -47,7 +47,7 @@ function CustomerForm() {
 
   return (
     <div style={{ maxWidth: '500px', margin: '20px auto', padding: '20px' }}>
-      <h2>Customer Information Form</h2>
+      <h2>Customer Information</h2>
       <form onSubmit={handleSubmit}>
         <div style={{ marginBottom: '15px' }}>
           <label>Full Name:</label>
